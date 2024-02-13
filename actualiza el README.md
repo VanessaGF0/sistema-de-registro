@@ -4,3 +4,4 @@
   
 Para ejecutar el sistema, debe poner :
 
+Sistema de registro 2
